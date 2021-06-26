@@ -17,7 +17,7 @@
 
 - 📝 Connect to me on [www.linkedin.com/in/ahmadsohail404](www.linkedin.com/in/ahmadsohail404)
 
-- 💬 Ask me about **React,**
+- 💬 Ask me about **Frontend with React, C++**
 
 - 📫 How to reach me **sohailss2412@gmail.com**
 
