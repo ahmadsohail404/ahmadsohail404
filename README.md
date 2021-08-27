@@ -5,27 +5,27 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsohail404" alt="ahmadsohail404" /></a> </p>
 
-- 🔭 I’m currently working on **Open Source Projects**
+- 🔭 I’m currently working on **React.js and Next.js projects**
 
-- 🌱 I’m currently learning **ReactJS, DSA with C++**
+- 🌱 I’m currently learning **Backend with Nodde and DSA in Java**
 
-- 👯 I’m looking to collaborate on **Competitive Programming**
+- 👯 I’m looking to collaborate on **Open Source**
 
-- 🤝 I’m looking for help with **CP and Open-Source**
+- ❤️ I love **programming and cats**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmadsohail404](https://github.com/ahmadsohail404)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ahmadsohail404)
 
-- 📝 Connect to me on [www.linkedin.com/in/ahmadsohail404](www.linkedin.com/in/ahmadsohail404)
+- 📝 Connect to me on [LinkedIn](www.linkedin.com/in/ahmadsohail404)
 
-- 💬 Ask me about **Frontend with React, C++**
+- 💬 Ask me about **Frontend with React, C++, Java, Open Source**
 
 - 📫 How to reach me **sohailss2412@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PXRlURUjNDTwp8comXY35gLMTShE66O9/view?usp=sharing](https://drive.google.com/file/d/1PXRlURUjNDTwp8comXY35gLMTShE66O9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13-5yFceUqqp3J96NRJdU1kdTaexn1w2W/view?usp=sharing)
 
-- ⚡ Fun fact **I think I'm funny xD**
+- ⚡ Fun fact **I'm crazier than you think I'm**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/sohailss2412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sohailss2412" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/ahmadsohail404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmadsohail404" height="30" width="40" /></a>
