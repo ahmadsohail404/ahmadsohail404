@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React.js and Next.js projects**
 
-- 🌱 I’m currently learning **Backend with Nodde and DSA in Java**
+- 🌱 I’m currently learning **Backend with Node and DSA in Java**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
