@@ -8,7 +8,7 @@ I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The Na
 [![Instagram Badge](https://img.shields.io/badge/-ahmadsohail_ig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ahmadsohail_ig/)](https://instagram.com/ahmadsohail_ig)
 [![Gmail Badge](https://img.shields.io/badge/-sohailss2412@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohailss2412@gmail.com)](mailto:sohailss2412@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ahmadsohail404.github.io/)](https://ahmadsohail404.github.io/)
-[![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)](https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)
+[![Youtube Badge](https://img.shields.io/badge/-Sohail%20Ahmad-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)](https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)
 
 [![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=xcode)](https://git.io/ahmadsohail404)
 
