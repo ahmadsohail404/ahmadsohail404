@@ -1,6 +1,6 @@
 ## Hi, I am Sohail! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am a tech enthusiast & I am into Web Development and Open-Source Contribution. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am a tech enthusiast & I am into Web Development, Open-Source Contribution and learning DSA. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsohail404&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsohail404" /> </p>
 
