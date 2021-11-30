@@ -10,7 +10,7 @@ I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The Na
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ahmadsohail404.github.io/)](sohailahmad.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-Sohail%20Ahmad-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)](https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)
 
-[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=xcode)](https://git.io/ahmadsohail404)
+[![Sohail's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=xcode)](https://git.io/ahmadsohail404)
 
 ## ⚡ Technologies
 
