@@ -1,6 +1,6 @@
 ![header_](https://user-images.githubusercontent.com/72069769/145477799-0f8d9f85-39fd-41eb-902e-d8e5e3232799.png)
 
-## Hi, I am Sohail! Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" text-align="center>
+## Hi, I am Sohail! Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am a tech enthusiast & I am into Web Development, Open-Source Contribution and learning DSA. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
