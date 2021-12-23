@@ -26,7 +26,7 @@ I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The Na
 
 ### Libraries & Frameworks :
 
-![React (learning)](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) (learning)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
