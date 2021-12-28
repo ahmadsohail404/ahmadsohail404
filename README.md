@@ -17,7 +17,7 @@ I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The Na
 ## ⚡ Technologies
 
 ### Languages :
-
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
