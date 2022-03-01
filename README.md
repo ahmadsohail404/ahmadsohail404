@@ -2,7 +2,7 @@
 
 ## Hi, I am [Sohail](https://linkedin.com/in/ahmadsohail404)! Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am Vice Chair @GeeksforGeeks NIE Student Chapter and a tech enthusiast. Also, I love Web Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am the Vice Chair @GeeksforGeeks NIE Student Chapter, CS Tech Lead and Web Master @NIE IEEE Student Branch. Also, I love Web Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsohail404&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsohail404" /> </p>
 
@@ -23,6 +23,7 @@ I am Sohail Ahmad, currently pursuing B.Tech in Information Science from [The Na
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![LATEX](https://img.shields.io/badge/-LATEXX-1572B6?style=flat-square&logo=latex)
 
 
 ### Libraries & Frameworks :
