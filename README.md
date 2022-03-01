@@ -23,7 +23,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![LATEX](https://img.shields.io/badge/-LATEXX-1572B6?style=flat-square&logo=latex)
+![LATEX](https://img.shields.io/badge/-LATEX-1572B6?style=flat-square&logo=latex)
 
 
 ### Libraries & Frameworks :
