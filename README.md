@@ -57,7 +57,6 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -65,7 +64,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 
 #### Workspace
 
-![Mac](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=mac&logoColor=white)
+![MacOS](https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=apple&logoColor=white)
 
 ## 📈 Stats
 
@@ -73,17 +72,6 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahmadsohail404&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsohail404&hide_border=true&theme=radical" />
 </p>
-
-## ✍🏻 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [What is FOSSology and how to set it up?](https://dev.to/ahmadsohail404/what-is-fossology-and-how-to-set-it-up-4j47)
-- [7 biases of dev-tool product teams](https://dev.to/ahmadsohail404/7-biases-of-dev-tool-product-teams-1ng5)
-- [Setting Windows PowerShell environment variables](https://dev.to/ahmadsohail404/setting-windows-powershell-environment-variables-2glb)
-- [Integrating Chatwoot in your web dev project](https://dev.to/ahmadsohail404/integrating-chatwoot-in-your-web-dev-project-43o9)
-- [Introduction to Docker](https://dev.to/ahmadsohail404/introduction-to-docker-23jl)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Most used languages
 
