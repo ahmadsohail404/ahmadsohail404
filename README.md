@@ -17,13 +17,13 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 
 ## ⚡ Tech Stack
 
-#### Learning
+### Learning
 
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
-#### Languages
+### Languages
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,7 +34,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### Front-End Stack
+### Front-End Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=Vue.js)
@@ -42,7 +42,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-#### Back-End Stack
+### Back-End Stack
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
@@ -50,7 +50,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-#### Tools & Platform
+### Tools & Platform
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -62,7 +62,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-#### Workspace
+### Workspace
 
 ![MacOS](https://img.shields.io/badge/Mac-0078D6?style=for-the-badge&logo=apple&logoColor=white)
 
