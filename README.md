@@ -19,9 +19,9 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 
 #### Learning
 
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
 
 #### Languages
 
@@ -45,9 +45,9 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 #### Back-End Stack
 
 ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=flat-square&logo=Firebase)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-00599C?style=for-the-badge&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 #### Tools & Platform
