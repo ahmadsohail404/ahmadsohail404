@@ -13,7 +13,10 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 [![Gmail Badge](https://img.shields.io/badge/-sohailss2412@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohailss2412@gmail.com)](mailto:sohailss2412@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://ahmadsohail404.github.io/)](sohailahmad.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-Sohail%20Ahmad-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)](https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)
-[![Sohail's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=xcode)](https://git.io/ahmadsohail404)
+
+<!-- [![Sohail's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=xcode)](https://git.io/ahmadsohail404) -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ahmadsohail404's Activity Graph" src="https://ahmadsohail404-activity-graph.herokuapp.com/graph/?username=ahmadsohail404&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ## ⚡ Tech Stack
 
