@@ -20,9 +20,9 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 
 ### Learning
 
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js"></a>
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 
 <!-- ### Languages
 
@@ -63,7 +63,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) -->
 
-### 👨‍💻 Programming languages
+### Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3Aahmadsohail404+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -83,20 +83,20 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
     <a href="https://github.com/search?q=user%3Aahmadsohail404+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### Frameworks and libraries
 
 <p>
     <a href="#"><img alt="React.js" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue-grey?style=for-the-badge&logo=Vue.js"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/-Vue-grey?style=flat-square&logo=Vue.js"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js"></a>
     <!-- <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a> -->
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -107,7 +107,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
