@@ -77,11 +77,6 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 
   <p align = "left" ><br> 
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsohail404&layout=compact&hide_border=true&theme=radical" />
-
-Number of visits:
-
-![VisitorCount](https://komarev.com/ghpvc/?username=ahmadsohail404&label=Profile%20views&color=0e75b6&style=flat)
-
 </p>
 
 ---
