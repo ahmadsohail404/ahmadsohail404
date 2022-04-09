@@ -86,6 +86,10 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadsohail404&repo=ahmadsohail404&hide_border=true&theme=radical" />
 </a>
 
+<a href="https://github.com/ahmadsohail404/reverse-coding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadsohail404&repo=reverse-coding&hide_border=true&theme=radical" />
+</a>
+
 <a href="https://github.com/ahmadsohail404/Neuromorphic-React-Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmadsohail404&repo=Neuromorphic-React-Portfolio&hide_border=true&theme=radical" />
 </a>
