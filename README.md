@@ -1,6 +1,6 @@
 <!-- ![header_](https://user-images.githubusercontent.com/72069769/145477799-0f8d9f85-39fd-41eb-902e-d8e5e3232799.png) -->
 
-## Hi, I am [Sohail](https://linkedin.com/in/ahmadsohail404)! Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am [Sohail](https://linkedin.com/in/ahmadsohail404). Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <a href="https://ahmadsohail404.github.io/"><img src="/src/header.png"></a>
 
