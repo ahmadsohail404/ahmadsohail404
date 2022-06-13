@@ -11,7 +11,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 [![Linkedin Badge](https://img.shields.io/badge/-sohailahmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsohail404/)](https://www.linkedin.com/in/ahmadsohail404/)
 [![Instagram Badge](https://img.shields.io/badge/-ahmadsohail_ig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ahmadsohail_ig/)](https://instagram.com/ahmadsohail_ig)
 [![Gmail Badge](https://img.shields.io/badge/-sohailss2412@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohailss2412@gmail.com)](mailto:sohailss2412@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://www.sohailahmad.netlify.app/)](https://www.sohailahmad.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://sohailahmad.netlify.app/)](https://sohailahmad.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-Sohail%20Ahmad-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)](https://www.youtube.com/channel/UCybCL66HUQDcbF-2duwCIFQ)
 
 [![Sohail's github activity graph](https://activity-graph.herokuapp.com/graph?username=ahmadsohail404&theme=redical)](https://git.io/ahmadsohail404)
