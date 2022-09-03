@@ -2,7 +2,7 @@
 
 ## Hi, I am [Sohail](https://linkedin.com/in/ahmadsohail404). Great to see you here <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<a href="https://ahmadsohail404.github.io/"><img src="/src/header.png"></a>
+<!-- <a href="https://ahmadsohail404.github.io/"><img src="/src/header.png"></a> -->
 
 I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I am the Vice Chair @GeeksforGeeks NIE Student Chapter, CS Tech Lead and Web Master @NIE IEEE Student Branch. Also, I love Web Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
