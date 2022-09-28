@@ -23,6 +23,7 @@ I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science fr
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=Node.js"></a>
 <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="typescript" src="https://img.shields.io/badge/typescript-00f.svg?logo=mysql&logoColor=white"></a>
 
 ### Programming languages
 
