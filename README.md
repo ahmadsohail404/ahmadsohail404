@@ -4,7 +4,7 @@
 
 <!-- <a href="https://ahmadsohail404.github.io/"><img src="/src/header.png"></a> -->
 
-I am Sohail Ahmad, currently a sophomore, pursuing B.E in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I'm working as a part time Frontend Developer @Exinous Technologies, Inc. I hold the responsibility of the Vice Chair @GeeksforGeeks NIE Student Chapter, CS Tech Lead and Web Master @NIE IEEE Student Branch. Also, I love Web Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sohail Ahmad, currently a pre final year undergrad, pursuing B.E in Information Science from [The National Institute of Engineering](https://nie.ac.in/). I'm working as a part time Frontend Developer @Exinous Technologies, Inc. I hold the responsibility of the Vice Chair @GeeksforGeeks NIE Student Chapter, CS Tech Lead and Web Master @NIE IEEE Student Branch. Also, I love Web Development, Open-Source Contribution and learning new technologies, always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsohail404&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsohail404" /> </p>
 
